@@ -25,9 +25,7 @@ npm run build
 npm run lint
 ```
 ### Deploy on
-```
-https://supermercado-vila-yara.netlify.app/
-```
+See [Supermercado Vila Yara App](https://supermercado-vila-yara.netlify.app/).
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
